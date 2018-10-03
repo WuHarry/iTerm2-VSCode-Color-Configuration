@@ -1,0 +1,23 @@
+{
+    "explorer.confirmDelete": false,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "terminal.integrated.shell.osx": "zsh",
+    "terminal.integrated.fontFamily": "Noto Mono for Powerline",
+    "explorer.confirmDragAndDrop": false,
+    "eslint.validate": [
+        {
+            "language": "vue",
+            "autoFix": true
+        },
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "javascript",
+            "autoFix": true
+        }
+      ]
+}
