@@ -1,11 +1,5 @@
 {
-  "Ansi 6 Color" : {
-    "Red Component" : 0.37508565187454224,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.76139271259307861,
-    "Alpha Component" : 1,
-    "Green Component" : 0.69693183898925781
-  },
+  "Use Non-ASCII Font" : false,
   "Tags" : [
 
   ],
@@ -16,20 +10,14 @@
     "Alpha Component" : 1,
     "Green Component" : 0.78167331218719482
   },
-  "Ansi 7 Color" : {
-    "Red Component" : 0.89857113361358643,
+  "Ansi 2 Color" : {
+    "Red Component" : 0,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.62061721086502075,
+    "Blue Component" : 0.67194753885269165,
     "Alpha Component" : 1,
-    "Green Component" : 0.76939171552658081
+    "Green Component" : 0.55852228403091431
   },
-  "Ansi 8 Color" : {
-    "Red Component" : 0.33088251948356628,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.39803320169448853,
-    "Alpha Component" : 1,
-    "Green Component" : 0.36768913269042969
-  },
+  "Normal Font" : "NotoMonoForPowerline 12",
   "Bold Color" : {
     "Red Component" : 1,
     "Color Space" : "sRGB",
@@ -37,15 +25,15 @@
     "Alpha Component" : 1,
     "Green Component" : 0.91531294584274292
   },
-  "Ansi 9 Color" : {
-    "Red Component" : 0.86792439222335815,
+  "Link Color" : {
+    "Red Component" : 0,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.54196631908416748,
+    "Blue Component" : 0.73423302173614502,
     "Alpha Component" : 1,
-    "Green Component" : 0.60251611471176147
+    "Green Component" : 0.35916060209274292
   },
-  "Transparency" : 0,
-  "Guid" : "859F31FB-751B-42B5-A50C-D0AAD2F9E93A",
+  "Custom Directory" : "No",
+  "Right Option Key Sends" : 0,
   "Rows" : 25,
   "Default Bookmark" : "No",
   "Cursor Guide Color" : {
@@ -143,7 +131,7 @@
     "Green Component" : 0.85677081346511841
   },
   "Use Italic Font" : true,
-  "Unlimited Scrollback" : false,
+  "Unlimited Scrollback" : true,
   "Keyboard Map" : {
     "0xf700-0x260000" : {
       "Action" : 10,
@@ -316,7 +304,7 @@
     "Alpha Component" : 0.5,
     "Green Component" : 0.1491314172744751
   },
-  "Scrollback Lines" : 1000,
+  "Scrollback Lines" : 0,
   "Send Code When Idle" : false,
   "Close Sessions On End" : true,
   "Terminal Type" : "xterm-256color",
@@ -361,24 +349,6 @@
     "Green Component" : 0.40136903524398804
   },
   "Horizontal Spacing" : 1,
-  "Custom Directory" : "No",
-  "Link Color" : {
-    "Red Component" : 0,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.73423302173614502,
-    "Alpha Component" : 1,
-    "Green Component" : 0.35916060209274292
-  },
-  "Right Option Key Sends" : 0,
-  "Use Non-ASCII Font" : false,
-  "Ansi 2 Color" : {
-    "Red Component" : 0,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.67194753885269165,
-    "Alpha Component" : 1,
-    "Green Component" : 0.55852228403091431
-  },
-  "Normal Font" : "NotoMonoForPowerline 12",
   "Ansi 3 Color" : {
     "Red Component" : 0.99657505750656128,
     "Color Space" : "sRGB",
@@ -399,5 +369,35 @@
     "Blue Component" : 0.95696371793746948,
     "Alpha Component" : 1,
     "Green Component" : 0.86142736673355103
-  }
+  },
+  "Ansi 6 Color" : {
+    "Red Component" : 0.37508565187454224,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.76139271259307861,
+    "Alpha Component" : 1,
+    "Green Component" : 0.69693183898925781
+  },
+  "Ansi 7 Color" : {
+    "Red Component" : 0.89857113361358643,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.62061721086502075,
+    "Alpha Component" : 1,
+    "Green Component" : 0.76939171552658081
+  },
+  "Ansi 8 Color" : {
+    "Red Component" : 0.33088251948356628,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.39803320169448853,
+    "Alpha Component" : 1,
+    "Green Component" : 0.36768913269042969
+  },
+  "Ansi 9 Color" : {
+    "Red Component" : 0.86792439222335815,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.54196631908416748,
+    "Alpha Component" : 1,
+    "Green Component" : 0.60251611471176147
+  },
+  "Transparency" : 0,
+  "Guid" : "859F31FB-751B-42B5-A50C-D0AAD2F9E93A"
 }
